@@ -41,7 +41,7 @@ var isFavorite = true;
 
 var shouldOrderMore === true;
 if(inStock < 20) {
- console.log("shouldOrderMore is false");
+ console.log("shouldOrderMore is fonslse");
 } else (){
  console.log("shouldOrderMore is true");
 }
